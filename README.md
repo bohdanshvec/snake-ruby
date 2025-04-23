@@ -16,5 +16,6 @@
 
 ```bash
 ruby game_python.rb
+```
 
 ![Python Game Screenshot](screenshot.png)
