@@ -11,11 +11,10 @@
 - *You lose when you go out of bounds or hit an obstacle*
 
 ### Запуск
-
-### Have a nice game
-
 ```bash
 ruby game_python.rb
 ```
+
+### Have a nice game
 
 ![Python Game Screenshot](screenshot.png)
